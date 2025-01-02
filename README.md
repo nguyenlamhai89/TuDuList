@@ -1,8 +1,8 @@
 # TuDuList
 
-## Feature Set
-### Add new Task
-### Delete a Task
-### Arrange
+### Feature Set
+Add new Task
+Delete a Task
+Arrange
 
-## Made for iOS
+### Made for iOS
